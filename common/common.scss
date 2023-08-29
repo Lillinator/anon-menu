@@ -4,7 +4,7 @@
         display: none;
 }
 
-.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section""] {
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section"] {
         display: block;
 }
 
@@ -14,7 +14,7 @@
         display: block;
 }
 
-.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section""] {
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section"] {
         display: none;
 }
 
