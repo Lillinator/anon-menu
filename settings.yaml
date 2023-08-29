@@ -1,11 +1,11 @@
 anon_menu_section:
   type: string
-  default: "anon-menu"
+  default: "anon-menu-name"
   description:
     en: "Custom section to show for only for anonymous (not-logged-in) users. Use all lowercase and dashes for spaces (ie: Anon Menu = anon-menu)."
 
 user_menu_section:
   type: string
-  default: "user-menu"
+  default: "user-menu-name"
   description:
     en: "Custom section to show for logged-in users only. Use all lowercase and dashes for spaces (ie: User Menu = user-menu)."
