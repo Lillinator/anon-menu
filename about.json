@@ -1,0 +1,8 @@
+{
+  "name": "Discourse Anon Menu",
+  "component": true,
+  "about_url": "https://github.com/Lillinator/anon-menu/blob/main/README.md",
+  "license_url": "https://github.com/Lillinator/anon-menu/blob/main/LICENSE",
+  "authors": "@Lilly",
+  "theme_version": "1.0"
+}
