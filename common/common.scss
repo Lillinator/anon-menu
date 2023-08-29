@@ -1,0 +1,7 @@
+.sidebar-section-wrapper.sidebar-section[data-section-name="anon-menu"] {
+        display: none;
+}
+
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="anon-menu"] {
+        display: block;
+}
