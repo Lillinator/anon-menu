@@ -1,7 +1,7 @@
-.sidebar-section-wrapper.sidebar-section[data-section-name="anon-menu"] {
+.sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_section_name"] {
         display: none;
 }
 
-.anon .sidebar-section-wrapper.sidebar-section[data-section-name="anon-menu"] {
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_section_name""] {
         display: block;
 }
