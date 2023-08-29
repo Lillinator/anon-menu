@@ -1,3 +1,5 @@
+// show this section for anon users only //
+
 .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_section_name"] {
         display: none;
 }
@@ -5,3 +7,14 @@
 .anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_section_name""] {
         display: block;
 }
+
+// show this section for logged-in users only //
+
+.sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_section_name"] {
+        display: block;
+}
+
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_section_name""] {
+        display: none;
+}
+
