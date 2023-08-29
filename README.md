@@ -1,4 +1,4 @@
-# Discoures Anon-only Menu
+# Discoures Anon-Menu
 Discourse anon-only menu lets admins specify a menu section to show to only anonymous (not-logged-in) users.
 
 There are two settings that can be used (indivually or together): a custom navigation menu section to show only for anonymous users, and another to show only for logged-in users.
