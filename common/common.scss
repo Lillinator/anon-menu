@@ -1,20 +1,20 @@
 // show this section for anon users only //
 
-.sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section"] {
+.sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section}"] {
         display: none;
 }
 
-.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section"] {
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$anon_menu_section}"] {
         display: block;
 }
 
 // show this section for logged-in users only //
 
-.sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section"] {
+.sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section}"] {
         display: block;
 }
 
-.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section"] {
+.anon .sidebar-section-wrapper.sidebar-section[data-section-name="#{$user_menu_section}"] {
         display: none;
 }
 
