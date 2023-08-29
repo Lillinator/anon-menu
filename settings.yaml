@@ -3,3 +3,9 @@ anon_menu_section:
   default: ""
   description:
     en: "Custom section to show for anonymous (not-logged-in) users only. Use all lowercase and dashes for spaces (ie: forum-links)."
+
+user_menu_section:
+  type: string
+  default: ""
+  description:
+    en: "Custom section to show for logged-in users only. Use all lowercase and dashes for spaces (ie: forum-links)."
